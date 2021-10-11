@@ -1,0 +1,396 @@
+Initialize engine version: 5.5.1p3 (828893732fe0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.4358]
+    Renderer: Intel(R) HD Graphics
+    Vendor:   Intel
+    VRAM:     912 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\DOTween.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\DOTween43.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\DOTween46.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\DOTween50.dll (this message is harmless)
+Loading E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\DOTween50.dll into Unity Child Domain
+- Completed reload, in  0.520 seconds
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on SceneManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.588900 ms
+!!!!!! - THIS BUILD IS IN RELEASE MODE - !!!!!!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.461000 ms
+Fallback handler could not load library E:/Games Master/Tricky.Towers.v25.05.2018/Tricky_Towers/TrickyTowers_Data/Mono/XInputInterface64
+Fallback handler could not load library E:/Games Master/Tricky.Towers.v25.05.2018/Tricky_Towers/TrickyTowers_Data/Mono/.\XInputInterface64
+Fallback handler could not load library E:/Games Master/Tricky.Towers.v25.05.2018/Tricky_Towers/TrickyTowers_Data/Mono/XInputInterface64
+Fallback handler could not load library E:/Games Master/Tricky.Towers.v25.05.2018/Tricky_Towers/TrickyTowers_Data/Mono/libXInputInterface64
+Fallback handler could not load library E:/Games Master/Tricky.Towers.v25.05.2018/Tricky_Towers/TrickyTowers_Data/Mono/.\libXInputInterface64
+Fallback handler could not load library E:/Games Master/Tricky.Towers.v25.05.2018/Tricky_Towers/TrickyTowers_Data/Mono/libXInputInterface64
+Platform assembly: E:\Games Master\Tricky.Towers.v25.05.2018\Tricky_Towers\TrickyTowers_Data\Managed\System.Xml.dll (this message is harmless)
+[APP] explanations initialised
+[APP] Trophies initialised
+[APP] Leaderboards initialised
+[APP] User manager initialised
+[APP] Net command initialised
+[APP] prewarm leaderboard initialised
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 27049.
+Total: 27.510500 ms (FindLiveObjects: 1.770100 ms CreateObjectMapping: 3.388100 ms MarkObjects: 22.269699 ms  DeleteObjects: 0.081300 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.015700 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 27192.
+Total: 16.881800 ms (FindLiveObjects: 1.172600 ms CreateObjectMapping: 2.361100 ms MarkObjects: 13.269401 ms  DeleteObjects: 0.077700 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b74 -> priority: 1 
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=APPLICATION&ea=GAME_START&sc=start&ul=en&sr=1366x768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.886000 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 27748.
+Total: 16.982101 ms (FindLiveObjects: 1.187700 ms CreateObjectMapping: 2.209400 ms MarkObjects: 13.464600 ms  DeleteObjects: 0.119300 ms)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.864200 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 27853.
+Total: 17.075899 ms (FindLiveObjects: 1.180200 ms CreateObjectMapping: 2.232800 ms MarkObjects: 13.545099 ms  DeleteObjects: 0.116600 ms)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=WIZARD&ea=SELECT&el=WITCH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.822000 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 29023.
+Total: 18.408001 ms (FindLiveObjects: 1.238000 ms CreateObjectMapping: 2.120800 ms MarkObjects: 14.946600 ms  DeleteObjects: 0.101700 ms)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.812200 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 27057.
+Total: 16.003000 ms (FindLiveObjects: 1.135700 ms CreateObjectMapping: 1.903400 ms MarkObjects: 12.871099 ms  DeleteObjects: 0.091800 ms)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_4&el=STARTED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.175000 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 26568.
+Total: 21.226799 ms (FindLiveObjects: 1.430700 ms CreateObjectMapping: 3.348300 ms MarkObjects: 16.381100 ms  DeleteObjects: 0.065500 ms)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_4&el=STARTED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.742400 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 26162.
+Total: 22.376001 ms (FindLiveObjects: 2.072100 ms CreateObjectMapping: 3.041300 ms MarkObjects: 17.199200 ms  DeleteObjects: 0.062500 ms)
+
+_gameStats.bubblesStabilized.value++ BRICK_Z 70.64579
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The stateflowcontroller [EnemyGameController] is set to a state that does not have a controller: [WIN_REQUESTED]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+levelId: SR_14
+levelType: SINGLE_PLAYER
+finished: True
+waveNumber: 0
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/batch: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_4&el=STARTED
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_4&el=LOST
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.983000 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 25707.
+Total: 18.459900 ms (FindLiveObjects: 1.068600 ms CreateObjectMapping: 2.197300 ms MarkObjects: 15.127400 ms  DeleteObjects: 0.065600 ms)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.454400 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 23745.
+Total: 18.261900 ms (FindLiveObjects: 1.304800 ms CreateObjectMapping: 2.906300 ms MarkObjects: 13.961499 ms  DeleteObjects: 0.087400 ms)
+
+The stateflowcontroller [EnemyGameController] is set to a state that does not have a controller: [WIN_REQUESTED]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+levelId: SP_12
+levelType: SINGLE_PLAYER
+finished: True
+waveNumber: 0
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/batch: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_5&el=STARTED
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_5&el=LOST
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.161200 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 23327.
+Total: 20.334200 ms (FindLiveObjects: 1.080300 ms CreateObjectMapping: 3.076000 ms MarkObjects: 16.114199 ms  DeleteObjects: 0.062000 ms)
+
+The stateflowcontroller [EnemyGameController] is set to a state that does not have a controller: [WIN_REQUESTED]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+levelId: SP_12
+levelType: SINGLE_PLAYER
+finished: True
+waveNumber: 0
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/batch: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_5&el=STARTED
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_5&el=LOST
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.031900 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 23191.
+Total: 19.884300 ms (FindLiveObjects: 1.065700 ms CreateObjectMapping: 2.472600 ms MarkObjects: 16.272200 ms  DeleteObjects: 0.072300 ms)
+
+The stateflowcontroller [EnemyGameController] is set to a state that does not have a controller: [WIN_REQUESTED]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+levelId: SP_12
+levelType: SINGLE_PLAYER
+finished: True
+waveNumber: 0
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/batch: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_5&el=STARTED
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_5&el=LOST
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.298000 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 23054.
+Total: 20.646400 ms (FindLiveObjects: 1.159700 ms CreateObjectMapping: 3.141900 ms MarkObjects: 16.280399 ms  DeleteObjects: 0.062600 ms)
+
+The stateflowcontroller [EnemyGameController] is set to a state that does not have a controller: [WIN_REQUESTED]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+levelId: SP_12
+levelType: SINGLE_PLAYER
+finished: True
+waveNumber: 0
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/batch: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_5&el=STARTED
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_5&el=LOST
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.411900 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 23054.
+Total: 20.259899 ms (FindLiveObjects: 1.058500 ms CreateObjectMapping: 2.885800 ms MarkObjects: 16.252100 ms  DeleteObjects: 0.062500 ms)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_5&el=STARTED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.515700 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 25023.
+Total: 19.753401 ms (FindLiveObjects: 1.691000 ms CreateObjectMapping: 2.514900 ms MarkObjects: 15.483100 ms  DeleteObjects: 0.063400 ms)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.300400 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 23058.
+Total: 19.085201 ms (FindLiveObjects: 1.476300 ms CreateObjectMapping: 2.933500 ms MarkObjects: 14.583200 ms  DeleteObjects: 0.089600 ms)
+
+The stateflowcontroller [EnemyGameController] is set to a state that does not have a controller: [WIN_REQUESTED]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+levelId: SS_14
+levelType: SINGLE_PLAYER
+finished: True
+waveNumber: 0
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/batch: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_6&el=STARTED
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_6&el=LOST
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.753800 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 24901.
+Total: 19.640200 ms (FindLiveObjects: 1.121300 ms CreateObjectMapping: 2.371900 ms MarkObjects: 16.079201 ms  DeleteObjects: 0.066900 ms)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.694400 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 22938.
+Total: 19.486301 ms (FindLiveObjects: 1.146900 ms CreateObjectMapping: 2.860500 ms MarkObjects: 15.390400 ms  DeleteObjects: 0.087300 ms)
+
+[APP] Final score: 33
+ACHIEVEMENT BABY_STEPS REACHED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Awarding trophy: BABY_STEPS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+levelId: SS_16
+levelType: SINGLE_PLAYER
+finished: False
+waveNumber: 0
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending analytics to http://www.google-analytics.com/batch: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_9&el=STARTED
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=SINGLEPLAYER&ea=LEVEL_2_9&el=WON
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.346900 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 24818.
+Total: 19.825401 ms (FindLiveObjects: 1.004900 ms CreateObjectMapping: 2.139700 ms MarkObjects: 16.615801 ms  DeleteObjects: 0.063900 ms)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.051700 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 23640.
+Total: 18.450100 ms (FindLiveObjects: 0.933500 ms CreateObjectMapping: 2.256200 ms MarkObjects: 15.171500 ms  DeleteObjects: 0.088000 ms)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.767000 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 23549.
+Total: 18.414200 ms (FindLiveObjects: 0.933700 ms CreateObjectMapping: 2.208300 ms MarkObjects: 15.183800 ms  DeleteObjects: 0.087600 ms)
+
+Sending analytics to http://www.google-analytics.com/collect: 
+v=1&t=event&tid=UA-76677029-1&cid=8f570675-6162-4abf-bc22-b9ae686302fb&av=01.81&an=Tricky%20Towers%20STEAM&ec=APPLICATION&ea=GAME_END&sc=end&ul=en&sr=1366x768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No analytics to send!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

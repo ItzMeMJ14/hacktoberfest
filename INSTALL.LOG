@@ -1,0 +1,291 @@
+***  Installation Started 08/15/2006 20:29  ***
+Title: Freedom Fighters Installation
+Source: G:\setup.exe
+Made Dir: E:\Program Files\EA Games\Freedom Fighters
+File Copy: E:\Program Files\EA Games\Freedom Fighters\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Freedom Fighters
+RegDB Val: Freedom Fighters
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Freedom Fighters
+RegDB Val: E:\PROGRA~1\EAGAME~1\FREEDO~1\UNWISE.EXE E:\PROGRA~1\EAGAME~1\FREEDO~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Movies
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Movies\NVIDIA_TWIMTBP.avi
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Movies\EAG.avi
+File Copy: E:\Program Files\EA Games\Freedom Fighters\uninstall.exe
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Encvag.dll
+File Copy: E:\Program Files\EA Games\Freedom Fighters\jpegdll.dll
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Secdrv.sys
+File Copy: E:\Program Files\EA Games\Freedom Fighters\DrvMgt.dll
+File Copy: E:\Program Files\EA Games\Freedom Fighters\00000000.256
+File Copy: E:\Program Files\EA Games\Freedom Fighters\00000000.016
+File Copy: E:\Program Files\EA Games\Freedom Fighters\config.exe
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Freedom.Exe
+File Copy: E:\Program Files\EA Games\Freedom Fighters\python20.dll
+File Copy: E:\Program Files\EA Games\Freedom Fighters\DieselPowerImplementation.dll
+File Copy: E:\Program Files\EA Games\Freedom Fighters\msvcrt.dll
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Msvcp60.dll
+File Copy: E:\Program Files\EA Games\Freedom Fighters\OpenAL32.dll
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\FF-Intro.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\FF-Intro.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\FF-Intro.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\FF-StartUp.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\FF-StartUp.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\FF-StartUp.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\StartLoader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\AllLevels
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\AllLevels\ErrorMessages.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01\FF_MC01_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01\FF_MC01_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01\FF_MC01_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01A
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01A\FF_MC01A_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01A\FF_MC01A_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01A\FF_MC01A_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01A\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01B
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01B\FF_MC01B_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01B\FF_MC01B_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01B\FF_MC01B_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC01B\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC02
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC02\FF_MC02_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC02\FF_MC02_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC02\FF_MC02_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC02\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC03
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC03\FF_MC03-InList.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC03\FF_MC03-InList.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC03\FF_MC03-InList.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC03\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC05
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC05\FF_MC05_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC05\FF_MC05_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC05\FF_MC05_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC05\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC06
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC06\FF_MC06_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC06\FF_MC06_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC06\FF_MC06_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC06\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC07
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC07\FF_MC07_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC07\FF_MC07_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC07\FF_MC07_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC07\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC09
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC09\FF_MC09_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC09\FF_MC09_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC09\FF_MC09_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC09\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC10
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC10\FF_MC10_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC10\FF_MC10_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC10\FF_MC10_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_MC10\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB02
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB02\FF_RB02-InList.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB02\FF_RB02-InList.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB02\FF_RB02-InList.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB02\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB03
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB03\FF_RB03-InList.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB03\FF_RB03-InList.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB03\FF_RB03-InList.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB03\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB04
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB04\FF_RB04-InList.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB04\FF_RB04-InList.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB04\FF_RB04-InList.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB04\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB05
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB05\FF_RB05-InList.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB05\FF_RB05-InList.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB05\FF_RB05-InList.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB05\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB06
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB06\FF_RB06-InList.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB06\FF_RB06-InList.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB06\FF_RB06-InList.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB06\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB07
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB07\FF_RB07-InList.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB07\FF_RB07-InList.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB07\FF_RB07-InList.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB07\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB08
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB08\FF_RB08-InList.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB08\FF_RB08-InList.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB08\FF_RB08-InList.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Cutscenes\MovieCuts\FF_RB08\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C01A
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C01A\FF-C01A_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C01A\FF-C01A_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C01A\FF-C01A_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C01A\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02A
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02A\FF-C02A_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02A\FF-C02A_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02A\FF-C02A_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02A\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02B
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02B\FF-C02B_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02B\FF-C02B_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02B\FF-C02B_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02B\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02RB
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02RB\FF-C02RB_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02RB\FF-C02RB_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02RB\FF-C02RB_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C02RB\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03A
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03A\FF-C03A_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03A\FF-C03A_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03A\FF-C03A_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03A\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03B
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03B\FF-C03B_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03B\FF-C03B_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03B\FF-C03B_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03B\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03C
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03C\FF-C03C_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03C\FF-C03C_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03C\FF-C03C_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03C\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03RB
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03RB\FF-C03RB_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03RB\FF-C03RB_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03RB\FF-C03RB_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C03RB\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04B
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04B\FF-C04B_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04B\FF-C04B_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04B\FF-C04B_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04B\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04C
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04C\FF-C04C_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04C\FF-C04C_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04C\FF-C04C_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04C\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04D
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04D\FF-C04D_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04D\FF-C04D_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04D\FF-C04D_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04D\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04RB
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04RB\FF-C04RB_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04RB\FF-C04RB_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04RB\FF-C04RB_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C04RB\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05A
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05A\FF-C05A_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05A\FF-C05A_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05A\FF-C05A_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05A\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05RB
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05RB\FF-C05RB_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05RB\FF-C05RB_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05RB\FF-C05RB_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C05RB\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C06A
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C06A\FF-C06A_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C06A\FF-C06A_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C06A\FF-C06A_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C06A\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07A
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07A\FF-C07A_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07A\FF-C07A_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07A\FF-C07A_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07A\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07B
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07B\FF-C07B_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07B\FF-C07B_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07B\FF-C07B_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07B\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07RB
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07RB\FF-C07RB_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07RB\FF-C07RB_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07RB\FF-C07RB_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C07RB\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08A
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08A\FF-C08A_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08A\FF-C08A_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08A\FF-C08A_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08A\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08B
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08B\FF-C08B_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08B\FF-C08B_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08B\FF-C08B_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08B\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08C
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08C\FF-C08C_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08C\FF-C08C_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08C\FF-C08C_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08C\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08D
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08D\FF-C08D_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08D\FF-C08D_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08D\FF-C08D_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08D\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08E
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08E\FF-C08E_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08E\FF-C08E_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08E\FF-C08E_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08E\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08RB
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08RB\FF-C08RB_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08RB\FF-C08RB_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08RB\FF-C08RB_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C08RB\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09A
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09A\FF-C09A_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09A\FF-C09A_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09A\FF-C09A_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09A\Loader.ZIP
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09RB
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09RB\FF-C09RB_MAIN.WAV
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09RB\FF-C09RB_MAIN.WHD
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09RB\FF-C09RB_MAIN.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Scenes\Singleplayer\C09RB\Loader.ZIP
+File Copy: E:\Program Files\EA Games\Freedom Fighters\a3d.dll
+File Copy: E:\Program Files\EA Games\Freedom Fighters\eax.dll
+File Copy: E:\Program Files\EA Games\Freedom Fighters\psapi.dll
+Made Dir: E:\Program Files\EA Games\Freedom Fighters\EReg
+File Copy: E:\Program Files\EA Games\Freedom Fighters\EReg\Freedom Fighters_Code.exe
+File Copy: E:\Program Files\EA Games\Freedom Fighters\EReg\Freedom Fighters_EZ.exe
+File Copy: E:\Program Files\EA Games\Freedom Fighters\EReg\Freedom Fighters_eReg.exe
+File Copy: E:\Program Files\EA Games\Freedom Fighters\EReg\Freedom Fighters_uninst.exe
+File Copy: E:\Program Files\EA Games\Freedom Fighters\EReg\Readme.txt
+File Copy: E:\Program Files\EA Games\Freedom Fighters\EReg\en-uk_eahelp.hlp
+File Copy: E:\Program Files\EA Games\Freedom Fighters\EReg\go_ez.exe
+File Copy: E:\Program Files\EA Games\Freedom Fighters\streams.wav
+File Copy: E:\Program Files\EA Games\Freedom Fighters\Freedom.ini
+Made Dir: C:\Documents and Settings\All Users\Start Menu\Programs\EA Games
+Made Dir: C:\Documents and Settings\All Users\Start Menu\Programs\EA Games\Freedom Fighters
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\EA Games\Freedom Fighters\Freedom Fighters.lnk
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\EA Games\Freedom Fighters\Configuration.lnk
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\EA Games\Freedom Fighters\Registration.lnk
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\EA Games\Freedom Fighters\EAsy System info.lnk
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\EA Games\Freedom Fighters\Readme.lnk
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\EA Games\Freedom Fighters\Uninstall.lnk
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\EA Games\Freedom Fighters\Technical Support.lnk
+Shell Link: C:\Documents and Settings\All Users\Desktop\Freedom Fighters.lnk
+RegDB Key: Software\Electronic Arts\Freedom
+RegDB Val: E:\PROGRA~1\EAGAME~1\FREEDO~1
+RegDB Name: InstallDir
+RegDB Root: 2
+Execute path: E:\PROGRA~1\EAGAME~1\FREEDO~1\EReg\Freedom Fighters_uninst.exe
+Self-Register: E:\Program Files\EA Games\Freedom Fighters\eax.dll
+RegDB Tree: Software\Electronic Arts\Freedom
+RegDB Root: 2
+File Tree: E:\PROGRA~1\EAGAME~1\FREEDO~1\Save\*
+User Rights: Admin
